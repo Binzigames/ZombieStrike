@@ -9,4 +9,7 @@ def  Window_name_Change(title):
 def Window_set_icon(icon):
     pygame.display.set_icon(icon)
 
+
+
+
 c_r = "YBkfjrkjfrjh9458023or_3049294foirgjeirgh"
